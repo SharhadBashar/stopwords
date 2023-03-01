@@ -16,5 +16,6 @@ def stopwords():
     file.close()
     return stopwords
 
-save(read())
-print(len(stopwords()))
+if __name__ == '__main__':
+    save(read())
+    # print(stopwords())

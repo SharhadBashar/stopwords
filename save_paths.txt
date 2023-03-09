@@ -1,0 +1,4 @@
+/home/ec2-user/whisper/python
+/home/ec2-user/podcast_iq/python
+/Users/sharhad.bashar/Podcast_IQ/python
+/Users/sharhad.bashar/whisper/python
